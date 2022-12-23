@@ -1,6 +1,6 @@
 ### Installation :
 
-npm install object-search
+npm install @mahiraltinkaya/object-search
 
 ### Usage :
 
