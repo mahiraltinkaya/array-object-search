@@ -1,31 +1,31 @@
 {
-  "name": "object-search",
-  "version": "1.0.0",
-  "description": "It provides search in all depths of arrays, objects or array objects.",
+  "name": "@mahiraltinkaya/object-search",
+  "version": "1.0.1",
+  "description": "Easy and lightweight search library for finding items inside an array in object, strings etc...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mahiraltinkaya/object-search.git"
+    "url": "git+https://github.com/mahiraltinkaya/array-object-search.git"
   },
   "keywords": [
-    "search",
-    "object-search",
-    "search",
-    "in",
+    "object",
     "array",
     "search",
-    "object",
     "find",
-    "in",
-    "object"
+    "lookup",
+    "inside"
   ],
-  "author": "mahiraltinkaya@gmail.com",
+  "author": {
+    "name": "Mahir Altinkaya",
+    "email": "mahiraltinkaya@gmail.com",
+    "url": "https://lustrous-basbousa-314294.netlify.app/"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mahiraltinkaya/object-search/issues"
+    "url": "https://github.com/mahiraltinkaya/array-object-search/issues"
   },
-  "homepage": "https://github.com/mahiraltinkaya/object-search#readme"
+  "homepage": "https://github.com/mahiraltinkaya/array-object-search#readme"
 }
