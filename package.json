@@ -1,0 +1,31 @@
+{
+  "name": "object-search",
+  "version": "1.0.0",
+  "description": "It provides search in all depths of arrays, objects or array objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahiraltinkaya/object-search.git"
+  },
+  "keywords": [
+    "search",
+    "object-search",
+    "search",
+    "in",
+    "array",
+    "search",
+    "object",
+    "find",
+    "in",
+    "object"
+  ],
+  "author": "mahiraltinkaya@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahiraltinkaya/object-search/issues"
+  },
+  "homepage": "https://github.com/mahiraltinkaya/object-search#readme"
+}
